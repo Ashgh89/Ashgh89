@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Iman (Ash)
 
-### IT Trainer & Dozent · Software Developer · Game Developer
+### IT Trainer & Educator · Software Developer · Game Developer
 
 I **teach technology, build software, and turn complex concepts into practical experiences.**
 

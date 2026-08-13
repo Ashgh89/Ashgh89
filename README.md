@@ -1,16 +1,45 @@
-## Hi there 👋
-
-<!--
-**Ashgh89/Ashgh89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌───────────────────────────────────────────────┐
+│                                               │
+│  👋 HELLO, I'M IMAN                           │
+│                                               │
+│  IT TRAINER · DOZENT · SOFTWARE DEVELOPER     │
+│  GAME DEVELOPER                                │
+│                                               │
+│  [ Portfolio ] [ GitHub ] [ LinkedIn ]        │
+│                                               │
+├───────────────────────────────────────────────┤
+│                                               │
+│  👨‍🏫 TEACH                                    │
+│  Helping people understand technology        │
+│                                               │
+│  💻 BUILD                                     │
+│  Web apps · Software · Tools                  │
+│                                               │
+│  🎮 CREATE                                    │
+│  Games · Interactive experiences               │
+│                                               │
+├───────────────────────────────────────────────┤
+│                                               │
+│  🧰 TECHNOLOGY                                │
+│                                               │
+│  C#  JavaScript  TypeScript  React  Unity     │
+│                                               │
+├───────────────────────────────────────────────┤
+│                                               │
+│  🚀 FEATURED WORK                             │
+│                                               │
+│  ┌──────────────┐  ┌──────────────┐           │
+│  │ Game Hub     │  │ Portfolio    │           │
+│  │ Web          │  │ Web          │           │
+│  └──────────────┘  └──────────────┘           │
+│                                               │
+├───────────────────────────────────────────────┤
+│                                               │
+│  📊 GITHUB                                    │
+│       Contributions · Stats · Languages       │
+│                                               │
+├───────────────────────────────────────────────┤
+│                                               │
+│       "Learn it. Build it. Teach it."         │
+│                                               │
+└───────────────────────────────────────────────┘

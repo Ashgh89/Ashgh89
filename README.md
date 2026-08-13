@@ -8,7 +8,7 @@ Based in **Cologne, Germany** 🇩🇪
 
 I work across **software development, web technologies, and game development**, while helping students and aspiring developers understand how technology works in the real world.
 
-🌐 [Portfolio](https://iman-ghanei.netlify.app/) · 💻 [Projects](https://github.com/Ashgh89)
+🌐 [Portfolio](https://iman-ghanei.netlify.app/) 
 
 ---
 

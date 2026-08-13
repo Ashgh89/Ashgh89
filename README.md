@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Iman
+# 👋 Hey, I'm Iman (Ash)
 
 ### IT Trainer & Dozent · Software Developer · Game Developer
 

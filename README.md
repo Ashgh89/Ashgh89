@@ -30,7 +30,7 @@ I believe the best way to understand technology is to **build something with it*
 
 ## 🛠️ My Technology Stack
 
-`C#` `JavaScript` `TypeScript` `React` `HTML` `CSS` `Unity` `Git` `GitHub`
+`JavaScript` `TypeScript` `React` `NextJS` `HTML` `CSS` `SCSS` `Tailwind` `Unity` `Unreal` `C#` `C++` `MySQL` `Git` `GitHub` 
 
 ---
 
